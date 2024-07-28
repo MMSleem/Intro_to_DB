@@ -1,9 +1,9 @@
 -- Use the specified database
 USE alx_book_store;
 
--- Insert a single row into the Customers table
+-- Insert a single row into the customer table
 INSERT INTO
-    Customers (
+    customer (
         customer_id,
         customer_name,
         email,
